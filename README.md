@@ -1,2 +1,1 @@
-# AIML
-AI and ML based projects
+# Artificial intelligence and machine learning
