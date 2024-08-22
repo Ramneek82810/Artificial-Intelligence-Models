@@ -1,5 +1,5 @@
 
-Advanced AI Projects
+Advanced AI Projects        
 Overview
 This repository contains a collection of advanced AI projects that demonstrate the application of various AI techniques across different domains. Each project showcases the use of cutting-edge methodologies to solve complex challenges effectively.
 
@@ -22,11 +22,7 @@ Key Techniques: Reinforcement learning, reward engineering, simulation environme
 Outcome: Successful lunar landings with minimized fuel consumption and optimized landing trajectories.
 Getting Started
 To get started with these projects, clone the repository and follow the instructions provided in each project folder. Detailed explanations and code comments are included to help you understand the implementation and the underlying concepts.
-
-bash
-Copy code
-git clone https://github.com/yourusername/advanced-ai-projects.git
-cd advanced-ai-projects
+ 
 Prerequisites
 Python 3.12
 TensorFlow / PyTorch
