@@ -1,9 +1,9 @@
 
-Advanced AI Projects        
+## Advanced AI Projects        
 Overview
 This repository contains a collection of advanced AI projects that demonstrate the application of various AI techniques across different domains. Each project showcases the use of cutting-edge methodologies to solve complex challenges effectively.
 
-Projects Included
+# Projects Included
 1. Mastering Kung Fu with A3C
 Description: Implementation of Asynchronous Advantage Actor-Critic (A3C) to master the game of Kung Fu. This project highlights the application of deep reinforcement learning to achieve human-level performance in a dynamic gaming environment.
 Key Techniques: Reinforcement learning, A3C algorithm, deep neural networks.
