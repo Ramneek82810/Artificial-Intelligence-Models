@@ -1,6 +1,4 @@
-
-
-## Advanced AI Projects        
+### Advanced AI Projects        
 Overview
 This repository contains a collection of advanced AI projects that demonstrate the application of various AI techniques across different domains. Each project showcases the use of cutting-edge methodologies to solve complex challenges effectively.
 
