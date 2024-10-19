@@ -11,29 +11,41 @@ Outcome: Achieved high scores and optimal strategies for navigating the game's c
 
 ---
 
-3. Optimizing Pac-Man with Q-learning
+2. Optimizing Pac-Man with Q-learning
 Description: This project leverages Q-learning, a model-free reinforcement learning algorithm, to optimize Pac-Man's gameplay. The AI learns to make strategic decisions to maximize rewards and avoid ghosts.
 Key Techniques: Q-learning, exploration-exploitation trade-off, reward maximization.
 Outcome: Improved gameplay strategies and enhanced decision-making capabilities in complex game scenarios.
-4. Fine-tuning NLP with Hugging Face Transformers
+
+---
+
+
+3. Fine-tuning NLP with Hugging Face Transformers
 Description: A deep dive into natural language processing using Hugging Face transformers. The project involves fine-tuning pre-trained language models for specific NLP tasks such as sentiment analysis, text classification, and question answering.
 Key Techniques: Transfer learning, BERT, GPT, transformer architecture.
 Outcome: Achieved state-of-the-art results in various NLP tasks with fine-tuned models.
-5. Developing Lunar Landing AI with Reinforcement Learning
+
+---
+
+
+4. Developing Lunar Landing AI with Reinforcement Learning
 Description: An innovative project focused on developing an AI capable of performing lunar landings using reinforcement learning. The AI learns to control the descent and landing process with precision, mimicking the challenges faced in real-world space missions.
 Key Techniques: Reinforcement learning, reward engineering, simulation environments.
 Outcome: Successful lunar landings with minimized fuel consumption and optimized landing trajectories.
-Getting Started
+
+
+# Getting Started
+
 To get started with these projects, clone the repository and follow the instructions provided in each project folder. Detailed explanations and code comments are included to help you understand the implementation and the underlying concepts.
  
-Prerequisites
+# Prerequisites
 Python 3.12
 TensorFlow / PyTorch
 Hugging Face Transformers
 OpenAI Gym
 Other specific libraries mentioned in each project's requirements file
 Installation
-For each project, navigate to its directory and install the required dependencies:
+
+# For each project, navigate to its directory and install the required dependencies:
 
 bash
 Copy code
