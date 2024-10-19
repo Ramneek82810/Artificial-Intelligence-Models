@@ -45,9 +45,3 @@ Hugging Face Transformers
 OpenAI Gym
 Other specific libraries mentioned in each project's requirements file
 Installation
-
-# For each project, navigate to its directory and install the required dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
