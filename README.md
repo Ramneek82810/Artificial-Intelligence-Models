@@ -50,15 +50,22 @@ Welcome to the Advanced AI Projects repository! 🚀 This collection features in
 
 To begin your journey:
 -Clone the Repository: Download the codebase to your local environment. 💻📥
+
 -Navigate Project Folders: Each folder includes detailed instructions and documentation. 🗂️📜
+
 -Follow Instructions: Step-by-step guides and commented code make implementation simple. ✔️🛠️
 
 ## Prerequisites 🛠️📋
 Ensure the following tools and libraries are installed:
+
 -Python 3.12 🐍📂
+
 -TensorFlow / PyTorch 🔗🧠
+
 -Hugging Face Transformers 🤗📖
+
 -OpenAI Gym 🎮🔗
+
 -Other specific dependencies (refer to each project folder). 🛠️✨
 
 ## Future Directions 🌐💭
