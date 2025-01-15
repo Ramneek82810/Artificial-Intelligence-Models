@@ -38,7 +38,7 @@ Welcome to the Advanced AI Projects repository! 🚀 This collection features in
 
 -Outcome: Demonstrated successful lunar landings with efficient fuel use and optimized trajectories. 🌟🏅
 
-## Why Explore These Projects? 🤔✨
+## Why Explore These Projects? 🤔
 
 -Innovative Learning: Gain hands-on experience with advanced AI methodologies. 🎓📘
 
