@@ -4,7 +4,8 @@
 
 Welcome to the Advanced AI Projects repository! 🚀 This collection features innovative projects that highlight the application of Artificial Intelligence across diverse domains. 🌍 Each project is a testament to the power of cutting-edge techniques in solving intricate challenges. 💡
 
-## Projects Included 📂📊
+##
+Projects Included 📂📊
 
 ### 1. Mastering Kung Fu with A3C 🥋🎮
 
