@@ -1,4 +1,4 @@
-# Advanced AI Projects
+# ADVANCED AI PROJECTS
 
 ## Overview 🌟✨
 
