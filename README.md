@@ -49,6 +49,7 @@ Welcome to the Advanced AI Projects repository! 🚀 This collection features in
 ## Getting Started 🚀🔧
 
 To begin your journey:
+
 -Clone the Repository: Download the codebase to your local environment. 💻📥
 
 -Navigate Project Folders: Each folder includes detailed instructions and documentation. 🗂️📜
