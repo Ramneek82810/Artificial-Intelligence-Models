@@ -8,7 +8,7 @@ Welcome to the Advanced AI Projects repository! 🚀 This collection features in
 
 ### 1. Mastering Kung Fu with A3C 🥋🎮
 
--Description: Dive into the world of gaming AI with this implementation of the Asynchronous Advantage Actor-Critic (A3C) algorithm to conquer the game of Kung Fu. 🎯 The AI learns human-level strategies for navigating the dynamic environment. 🌪️
+- Description: Dive into the world of gaming AI with this implementation of the Asynchronous Advantage Actor-Critic (A3C) algorithm to conquer the game of Kung Fu. 🎯 The AI learns human-level strategies for navigating the dynamic environment. 🌪️
 
 -Key Techniques: Reinforcement learning, A3C algorithm, deep neural networks. 🧠📈
 
