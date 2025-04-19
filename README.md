@@ -12,7 +12,7 @@ Welcome to the Advanced AI Projects repository! 🚀 This collection features in
 
 - Key Techniques: Reinforcement learning, A3C algorithm, deep neural networks. 🧠📈
 
--Outcome: Achieved top scores and developed optimal strategies for overcoming game challenges. 🏆
+- Outcome: Achieved top scores and developed optimal strategies for overcoming game challenges. 🏆
 
 ### 2. Optimizing Pac-Man with Q-learning 👻🍒
 
