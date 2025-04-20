@@ -18,7 +18,7 @@ Welcome to the Advanced AI Projects repository! 🚀 This collection features in
 
 - Description: Explore how AI enhances Pac-Man's gameplay using Q-learning, a model-free reinforcement learning technique. 🌟 The AI optimizes decision-making to maximize rewards and evade ghosts effectively. ⚡
 
--Key Techniques: Q-learning, exploration-exploitation trade-off, reward maximization. 🔄🧠
+- Key Techniques: Q-learning, exploration-exploitation trade-off, reward maximization. 🔄🧠
 
 -Outcome: Significantly improved gameplay strategies and advanced decision-making capabilities in complex scenarios. 💡👾
 
