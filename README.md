@@ -20,7 +20,7 @@ Welcome to the Advanced AI Projects repository! 🚀 This collection features in
 
 - Key Techniques: Q-learning, exploration-exploitation trade-off, reward maximization. 🔄🧠
 
--Outcome: Significantly improved gameplay strategies and advanced decision-making capabilities in complex scenarios. 💡👾
+- Outcome: Significantly improved gameplay strategies and advanced decision-making capabilities in complex scenarios. 💡👾
 
 ### 3. Fine-tuning NLP with Hugging Face Transformers ✍️🤗
 
