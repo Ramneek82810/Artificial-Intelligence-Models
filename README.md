@@ -28,7 +28,7 @@ Welcome to the Advanced AI Projects repository! 🚀 This collection features in
 
 - Key Techniques: Transfer learning, BERT, GPT, transformer architecture. 🛠️📖
 
--Outcome: Achieved state-of-the-art performance across multiple NLP tasks. 🎯🚀
+- Outcome: Achieved state-of-the-art performance across multiple NLP tasks. 🎯🚀
 
 ### 4. Developing Lunar Landing AI with Reinforcement Learning 🌕🚀
 
