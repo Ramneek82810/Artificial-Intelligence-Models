@@ -26,7 +26,7 @@ Welcome to the Advanced AI Projects repository! 🚀 This collection features in
 
 - Description: Harness the power of Hugging Face transformers in this NLP-focused project. 📝 Fine-tune pre-trained models for tasks like sentiment analysis, text classification, and question answering. 📚
 
--Key Techniques: Transfer learning, BERT, GPT, transformer architecture. 🛠️📖
+- Key Techniques: Transfer learning, BERT, GPT, transformer architecture. 🛠️📖
 
 -Outcome: Achieved state-of-the-art performance across multiple NLP tasks. 🎯🚀
 
