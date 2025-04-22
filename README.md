@@ -36,7 +36,7 @@ Welcome to the Advanced AI Projects repository! 🚀 This collection features in
 
 🌌 This project uses reinforcement learning to simulate the descent and landing phases of a lunar mission. 🌠
 
--Key Techniques: Reinforcement learning, reward engineering, simulation environments. 🛰️🎮
+- Key Techniques: Reinforcement learning, reward engineering, simulation environments. 🛰️🎮
 
 -Outcome: Demonstrated successful lunar landings with efficient fuel use and optimized trajectories. 🌟🏅
 
