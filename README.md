@@ -46,7 +46,7 @@ Welcome to the Advanced AI Projects repository! 🚀 This collection features in
 
 - Cutting-Edge Technology: Understand and implement state-of-the-art algorithms. 🧠⚡
 
--Real-World Applications: Explore practical use cases across gaming, NLP, and aerospace. 🌍🔍
+- Real-World Applications: Explore practical use cases across gaming, NLP, and aerospace. 🌍🔍
 
 ## Getting Started 🚀🔧
 
