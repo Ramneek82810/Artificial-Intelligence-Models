@@ -34,7 +34,7 @@ Welcome to the Advanced AI Projects repository! 🚀 This collection features in
 
 - Description: Witness AI tackle space exploration challenges by learning to perform precision lunar landings. 
 
-🌌 This project uses reinforcement learning to simulate the descent and landing phases of a lunar mission. 🌠
+#### 🌌 This project uses reinforcement learning to simulate the descent and landing phases of a lunar mission. 🌠
 
 - Key Techniques: Reinforcement learning, reward engineering, simulation environments. 🛰️🎮
 
