@@ -42,7 +42,7 @@ Welcome to the Advanced AI Projects repository! 🚀 This collection features in
 
 ## Why Explore These Projects? 🤔
 
--Innovative Learning: Gain hands-on experience with advanced AI methodologies. 🎓📘
+- Innovative Learning: Gain hands-on experience with advanced AI methodologies. 🎓📘
 
 -Cutting-Edge Technology: Understand and implement state-of-the-art algorithms. 🧠⚡
 
