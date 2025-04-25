@@ -54,7 +54,7 @@ To begin your journey:
 
 - Clone the Repository: Download the codebase to your local environment. 💻📥
 
--Navigate Project Folders: Each folder includes detailed instructions and documentation. 🗂️📜
+- Navigate Project Folders: Each folder includes detailed instructions and documentation. 🗂️📜
 
 -Follow Instructions: Step-by-step guides and commented code make implementation simple. ✔️🛠️
 
