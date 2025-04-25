@@ -56,7 +56,7 @@ To begin your journey:
 
 - Navigate Project Folders: Each folder includes detailed instructions and documentation. 🗂️📜
 
--Follow Instructions: Step-by-step guides and commented code make implementation simple. ✔️🛠️
+- Follow Instructions: Step-by-step guides and commented code make implementation simple. ✔️🛠️
 
 ## Prerequisites 🛠️📋
 Ensure the following tools and libraries are installed:
