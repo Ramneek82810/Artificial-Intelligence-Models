@@ -59,6 +59,7 @@ To begin your journey:
 - Follow Instructions: Step-by-step guides and commented code make implementation simple. ✔️🛠️
 
 ## Prerequisites 🛠️📋
+
 Ensure the following tools and libraries are installed:
 
 -Python 3.12 🐍📂
