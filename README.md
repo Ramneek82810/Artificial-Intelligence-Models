@@ -64,7 +64,7 @@ Ensure the following tools and libraries are installed:
 
 - Python 3.12 🐍📂
 
--TensorFlow / PyTorch 🔗🧠
+- TensorFlow / PyTorch 🔗🧠
 
 -Hugging Face Transformers 🤗📖
 
