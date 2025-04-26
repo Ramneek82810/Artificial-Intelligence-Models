@@ -62,7 +62,7 @@ To begin your journey:
 
 Ensure the following tools and libraries are installed:
 
--Python 3.12 🐍📂
+- Python 3.12 🐍📂
 
 -TensorFlow / PyTorch 🔗🧠
 
