@@ -68,7 +68,7 @@ Ensure the following tools and libraries are installed:
 
 - Hugging Face Transformers 🤗📖
 
--OpenAI Gym 🎮🔗
+- OpenAI Gym 🎮🔗
 
 -Other specific dependencies (refer to each project folder). 🛠️✨
 
