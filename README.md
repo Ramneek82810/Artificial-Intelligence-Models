@@ -66,7 +66,7 @@ Ensure the following tools and libraries are installed:
 
 - TensorFlow / PyTorch 🔗🧠
 
--Hugging Face Transformers 🤗📖
+- Hugging Face Transformers 🤗📖
 
 -OpenAI Gym 🎮🔗
 
