@@ -70,7 +70,7 @@ Ensure the following tools and libraries are installed:
 
 - OpenAI Gym 🎮🔗
 
--Other specific dependencies (refer to each project folder). 🛠️✨
+- Other specific dependencies (refer to each project folder). 🛠️✨
 
 ## Future Directions 🌐💭
 -Expanding projects with more advanced algorithms like Reinforcement Learning with PPO. 🔄🧠
