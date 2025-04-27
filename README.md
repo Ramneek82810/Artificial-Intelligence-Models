@@ -73,6 +73,7 @@ Ensure the following tools and libraries are installed:
 - Other specific dependencies (refer to each project folder). 🛠️✨
 
 ## Future Directions 🌐💭
+
 -Expanding projects with more advanced algorithms like Reinforcement Learning with PPO. 🔄🧠
 
 -Adding more diverse AI applications in fields like healthcare and robotics. 🤖🩺
