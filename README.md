@@ -78,4 +78,4 @@ Ensure the following tools and libraries are installed:
 
 - Adding more diverse AI applications in fields like healthcare and robotics. 🤖🩺
 
--Enhancing project interactivity with web-based interfaces. 🌐📱
+- Enhancing project interactivity with web-based interfaces. 🌐📱
