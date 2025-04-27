@@ -74,7 +74,7 @@ Ensure the following tools and libraries are installed:
 
 ## Future Directions 🌐💭
 
--Expanding projects with more advanced algorithms like Reinforcement Learning with PPO. 🔄🧠
+- Expanding projects with more advanced algorithms like Reinforcement Learning with PPO. 🔄🧠
 
 -Adding more diverse AI applications in fields like healthcare and robotics. 🤖🩺
 
