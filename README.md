@@ -76,6 +76,6 @@ Ensure the following tools and libraries are installed:
 
 - Expanding projects with more advanced algorithms like Reinforcement Learning with PPO. 🔄🧠
 
--Adding more diverse AI applications in fields like healthcare and robotics. 🤖🩺
+- Adding more diverse AI applications in fields like healthcare and robotics. 🤖🩺
 
 -Enhancing project interactivity with web-based interfaces. 🌐📱
