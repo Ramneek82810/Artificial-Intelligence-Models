@@ -10,7 +10,7 @@ This repository serves as a **mini AI lab** featuring a diverse range of models,
   
 ---
  
-## 📁 Repository Structure
+## 📁 Repository Structure 
 
 | Notebook File                               | Description                                                                 |
 |---------------------------------------------|-----------------------------------------------------------------------------|
